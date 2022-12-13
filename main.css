@@ -74,3 +74,39 @@ button {
   background-position: center;
   background-size: cover;
 }
+.form__container {
+  width: 550px;
+}
+.form {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  color: #fff;
+  background-color: #1D263A;
+  padding-top: 115px;
+  padding-bottom: 115px;
+  text-align: center;
+}
+.form h1 {
+  font-size: 48px;
+}
+.form p {
+  font-size: 15px;
+  opacity: 0.65
+}
+.form__submit {
+  font-family: 'Raleway', sans—serif;
+  font-size: 15px;
+  color: #fff;
+  background-color: #23a030;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  box-shadow: 0 16px 36px rgb(52 213 68 / 22%);
+  padding: 15px;
+}
+.form__group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
