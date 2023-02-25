@@ -1,3 +1,14 @@
+/* для CANVAS */
+.about {
+  position: relative;
+}
+
+.orb-canvas {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  right: 0;
+}
 /* SECTION 1 features*/
 .card__logo {
   font-weight: 700;
