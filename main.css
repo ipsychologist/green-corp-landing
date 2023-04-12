@@ -84,7 +84,7 @@ button:hover {
   justify-content: space-around;
   padding-bottom: 115px;
   padding-top: 200px;
-    background: url('img/back.png') no-repeat;
+    background: url('./img/back.png') no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -113,7 +113,7 @@ button:hover {
     height: 100%;
     /* width: 100%; */
 }
-/*-------------- features start---------- */
+/*-------------- FEATURES start---------- */
 .features {
     background-color: #fff;
     padding: 115px 60px;
@@ -199,13 +199,13 @@ button:hover {
 .stars {
   color: #ff7039;
 }
-/*-------------- features end---------- */
-/*-------------- promo start---------- */
+/*-------------- FEATURES end---------- */
+/*-------------- PROMO start---------- */
 .promo {
   display: flex;
 }
 .promo__image {
-  background-image: url('img/promo.jpg');
+  background-image: url('./img/promo.jpg');
   flex-shrink: 0;
   width: 50%;
   background-position: center;
